@@ -1,2 +1,1 @@
-# docs-csharp
-C# (C Sharp)
+# C# (C Sharp)
